@@ -38,10 +38,10 @@ Para inicializar el chatbot y poner en funcionamiento el sistema, sigue estos pa
 
 2. **Iniciar el servidor web**:
    - Abre una terminal en la carpeta del programa y ejecuta el siguiente comando:
-   ```bash npm start```
+   ```npm start```
    Esto iniciará el servidor que sirve la interfaz del chatbot en el navegador.
 
 3. **Ejecutar el programa principal**:
    - En otra terminal dentro de la carpeta principal, ejecuta:
-   ```bash start ./music_recommender.py```
+   ```start ./music_recommender.py```
    Esto abrirá una nueva pestaña en el navegador con el chatbot en funcionamiento. Ahora podrás interactuar con el asistente musical, utilizando los modelos entrenados en Google Colab.
